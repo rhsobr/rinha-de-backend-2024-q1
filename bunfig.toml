@@ -1,0 +1,6 @@
+logLevel = "error"
+
+# Reduce memory usage at the cost of performance
+smol = false
+
+telemetry = false
